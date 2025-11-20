@@ -1,4 +1,9 @@
-<iframe src="https://giphy.com/embed/SNFnql1YqNub0aljQO" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/text-blinkie-blinkies-SNFnql1YqNub0aljQO">via GIPHY</a></p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=<iframe src="https://giphy.com/embed/SNFnql1YqNub0aljQO" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/text-blinkie-blinkies-SNFnql1YqNub0aljQO">via GIPHY</a></p>>
+ <source media="(prefers-color-scheme: light)" srcset=<iframe src="https://giphy.com/embed/SNFnql1YqNub0aljQO" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/text-blinkie-blinkies-SNFnql1YqNub0aljQO">via GIPHY</a></p>>
+ <img alt="YOUR-ALT-TEXT" src=<iframe src="https://giphy.com/embed/SNFnql1YqNub0aljQO" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/text-blinkie-blinkies-SNFnql1YqNub0aljQO">via GIPHY</a></p>>
+</picture>
+
 <iframe src="https://giphy.com/embed/FbyCXe2cx9D7hkcTMj" width="480" height="161" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/love-gay-FbyCXe2cx9D7hkcTMj">via GIPHY</a></p>
 <iframe src="https://giphy.com/embed/SDgBALoTytdfARyCdg" width="480" height="161" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/autism-autistic-stim-SDgBALoTytdfARyCdg">via GIPHY</a></p>
 <iframe src="https://giphy.com/embed/hMaR941eW1aJkFBlwR" width="480" height="96" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/autism-autistic-af-hMaR941eW1aJkFBlwR">via GIPHY</a></p>
